@@ -2,36 +2,6 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>ESP32 FreeRTOS Monitoring System</title>
-  <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      max-width: 900px;
-      margin: auto;
-      line-height: 1.6;
-      color: #222;
-    }
-    h1, h2 {
-      color: #0b7285;
-    }
-    code {
-      background: #f4f4f4;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    .badge {
-      display: inline-block;
-      background: #0b7285;
-      color: #fff;
-      padding: 4px 10px;
-      border-radius: 12px;
-      font-size: 12px;
-      margin-right: 5px;
-    }
-  </style>
 </head>
 <body>
 
